@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automation on Dhananja K</title>
+    <link>https://dhananjak.github.io/categories/automation/</link>
+    <description>Recent content in automation on Dhananja K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 23:55:31 +0300</lastBuildDate>
+    <atom:link href="https://dhananjak.github.io/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://dhananjak.github.io/blogs/first/</link>
+      <pubDate>Wed, 20 Dec 2023 23:55:31 +0300</pubDate>
+      <guid>https://dhananjak.github.io/blogs/first/</guid>
+      <description>This is a heading one This is a heading two This is a paragraph.</description>
+    </item>
+  </channel>
+</rss>
