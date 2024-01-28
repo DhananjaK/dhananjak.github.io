@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhananja K</title>
+    <link>https://dhananjak.github.io/</link>
+    <description>Recent content on Dhananja K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 23:55:31 +0300</lastBuildDate>
+    <atom:link href="https://dhananjak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dhananjak.github.io/about/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:32 +0300</pubDate>
+      <guid>https://dhananjak.github.io/about/</guid>
+      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
+At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
+📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
+Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://dhananjak.github.io/blogs/first/</link>
+      <pubDate>Wed, 20 Dec 2023 23:55:31 +0300</pubDate>
+      <guid>https://dhananjak.github.io/blogs/first/</guid>
+      <description>This is a heading one This is a heading two This is a paragraph.</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://dhananjak.github.io/archives/</link>
+      <pubDate>Wed, 20 Dec 2023 23:19:58 +0300</pubDate>
+      <guid>https://dhananjak.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+  </channel>
+</rss>
