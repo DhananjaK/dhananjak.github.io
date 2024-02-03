@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>f5 on Dhananja K</title>
+    <link>https://dhananjak.github.io/tags/f5/</link>
+    <description>Recent content in f5 on Dhananja K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 23:55:31 +0300</lastBuildDate>
+    <atom:link href="https://dhananjak.github.io/tags/f5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streamlining Network Automation: F5 BIG-IP Automation with Ansible</title>
+      <link>https://dhananjak.github.io/blogs/f5_bigip_automation_with_ansible/</link>
+      <pubDate>Sat, 20 Jan 2024 23:55:31 +0300</pubDate>
+      <guid>https://dhananjak.github.io/blogs/f5_bigip_automation_with_ansible/</guid>
+      <description>Introduction In the fast-paced world of networking, automation has become a crucial element in optimising efficiency and reducing manual effort. One prominent player in the networking space is F5 BIG-IP, a powerful application delivery controller. Pairing it with Ansible, a powerful automation tool, can unlock a whole new level of network automation capabilities. In this blog post, we will explore the benefits and techniques of automating F5 BIG-IP using Ansible.</description>
+    </item>
+  </channel>
+</rss>
