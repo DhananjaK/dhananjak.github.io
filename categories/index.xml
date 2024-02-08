@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Dhananja K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 23:55:31 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 10:22:20 +0300</lastBuildDate>
     <atom:link href="https://dhananjak.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kubernetes</title>
+      <link>https://dhananjak.github.io/categories/kubernetes/</link>
+      <pubDate>Thu, 08 Feb 2024 10:22:20 +0300</pubDate>
+      <guid>https://dhananjak.github.io/categories/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>openshift</title>
+      <link>https://dhananjak.github.io/categories/openshift/</link>
+      <pubDate>Thu, 08 Feb 2024 10:22:20 +0300</pubDate>
+      <guid>https://dhananjak.github.io/categories/openshift/</guid>
+      <description></description>
+    </item>
     <item>
       <title>automation</title>
       <link>https://dhananjak.github.io/categories/automation/</link>

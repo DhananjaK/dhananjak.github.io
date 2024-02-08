@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dhananjak.github.io/blogs/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/categories/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/blogs/configure_egress_ip_to_a_namespace_in_openshift_4_with_the_ovn_kubernetes_cni_plugin/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/devsecops/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/kubernetes/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/categories/kubernetes/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/networking/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/openshift/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/categories/openshift/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/security/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
+    <loc>https://dhananjak.github.io/tags/yaml/</loc>
+    <lastmod>2024-02-08T10:22:20+03:00</lastmod>
+  </url><url>
     <loc>https://dhananjak.github.io/tags/ansible/</loc>
     <lastmod>2024-01-20T23:55:31+03:00</lastmod>
   </url><url>
     <loc>https://dhananjak.github.io/categories/automation/</loc>
-    <lastmod>2024-01-20T23:55:31+03:00</lastmod>
-  </url><url>
-    <loc>https://dhananjak.github.io/blogs/</loc>
-    <lastmod>2024-01-20T23:55:31+03:00</lastmod>
-  </url><url>
-    <loc>https://dhananjak.github.io/categories/</loc>
-    <lastmod>2024-01-20T23:55:31+03:00</lastmod>
-  </url><url>
-    <loc>https://dhananjak.github.io/</loc>
     <lastmod>2024-01-20T23:55:31+03:00</lastmod>
   </url><url>
     <loc>https://dhananjak.github.io/tags/f5/</loc>
@@ -24,12 +54,6 @@
     <lastmod>2024-01-20T23:55:31+03:00</lastmod>
   </url><url>
     <loc>https://dhananjak.github.io/blogs/f5_bigip_automation_with_ansible/</loc>
-    <lastmod>2024-01-20T23:55:31+03:00</lastmod>
-  </url><url>
-    <loc>https://dhananjak.github.io/tags/</loc>
-    <lastmod>2024-01-20T23:55:31+03:00</lastmod>
-  </url><url>
-    <loc>https://dhananjak.github.io/tags/yaml/</loc>
     <lastmod>2024-01-20T23:55:31+03:00</lastmod>
   </url><url>
     <loc>https://dhananjak.github.io/about/</loc>
