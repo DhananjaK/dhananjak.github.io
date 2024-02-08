@@ -13,7 +13,7 @@
       <link>https://dhananjak.github.io/blogs/configure_egress_ip_to_a_namespace_in_openshift_4_with_the_ovn_kubernetes_cni_plugin/</link>
       <pubDate>Thu, 08 Feb 2024 10:22:20 +0300</pubDate>
       <guid>https://dhananjak.github.io/blogs/configure_egress_ip_to_a_namespace_in_openshift_4_with_the_ovn_kubernetes_cni_plugin/</guid>
-      <description>Introduction OpenShift&amp;rsquo;s Egress IPs feature allows you to assign an IP address to a namespace or pod. In this way, all outbound traffic from that namespace or pod appears to originate from that IP address. In networking terms, it is known as a NATed IP address.
+      <description>Overview OpenShift&amp;rsquo;s Egress IPs feature allows you to assign an IP address to a namespace or pod. In this way, all outbound traffic from that namespace or pod appears to originate from that IP address. In networking terms, it is known as a NATed IP address.
 In this article, I&amp;rsquo;ll explain how to configure the Egress IPs feature in the OpenShfit project (Namespace). This mechanism is commonly used for security controls in enterprise-grade clusters.</description>
     </item>
   </channel>
