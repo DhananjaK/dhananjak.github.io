@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell on Dhananja K</title>
+    <link>https://dhananjak.github.io/tags/shell/</link>
+    <description>Recent content in shell on Dhananja K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 21:33:01 +0300</lastBuildDate>
+    <atom:link href="https://dhananjak.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testssl.sh TLS and SSL Pentesting Tool</title>
+      <link>https://dhananjak.github.io/blogs/testssl.sh_tls_and_ssl_pentesting_tool/</link>
+      <pubDate>Wed, 28 Feb 2024 21:33:01 +0300</pubDate>
+      <guid>https://dhananjak.github.io/blogs/testssl.sh_tls_and_ssl_pentesting_tool/</guid>
+      <description>Overview testssh.sh is a free command line tool that will check the TLS/SSL cyphers and protocols within a server&amp;rsquo;s service on any port. It will also provide information about recent cryptographic flaws, vulnerabilities, and additional information.
+This tool comes as a part of the Kali Linux distribution that we commonly use for security penetration testing, which also comes with many security tools. However, it can be run on any Unix-like platform and Windows using Docker or Cygwin.</description>
+    </item>
+  </channel>
+</rss>
